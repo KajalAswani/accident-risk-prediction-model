@@ -21,8 +21,7 @@ The analysis focuses on uncovering accident severity patterns, evaluating contri
 - Source: Kaggle Accident Dataset
 
 Dataset Link:
-[https://www.kaggle.com/](https://www.kaggle.com/)
-
+https://www.kaggle.com/competitions/playground-series-s5e10/data
 ---
 
 ## Technologies Used
